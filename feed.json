@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://namurois.micro.blog/2022/10/02/youtube-opqlthtpai-brandi.html",
+				
+				"content_html": "\n<div style=\"position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;\">\n  <iframe src=\"https://www.youtube.com/embed/o8pQLtHTPaI\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;\" allowfullscreen title=\"YouTube Video\"></iframe>\n</div>\n\n<p>Brandi Carlile, <em>The Story</em> (Vidéo officielle)</p>\n",
+				"content_text": "{{< youtube o8pQLtHTPaI >}}\r\n\r\nBrandi Carlile, _The Story_ (Vidéo officielle)\n",
+				"date_published": "2022-10-02T12:27:11+02:00",
+				"url": "https://namurois.blog/2022/10/02/youtube-opqlthtpai-brandi.html"
+			},
+			{
 				"id": "http://namurois.micro.blog/2022/09/18/lintelligence-est-vaincue.html",
 				
 				"content_html": "<blockquote>\n<p>L&rsquo;intelligence est vaincue dès que l&rsquo;expression des pensées est présentée, livrée ou implicitement, par le mot &ldquo;nous&rdquo;. Et quand la lumière de l&rsquo;intelligence s&rsquo;obscurcit, au bout d&rsquo;un temps assez court l&rsquo;amour du bien s&rsquo;égare.</p>\n</blockquote>\n<p>— Simone Weil, L&rsquo;Enracinement</p>\n",
@@ -45,7 +53,7 @@
 				"id": "http://namurois.micro.blog/2022/08/31/quelques-mots-abandonns.html",
 				
 				"content_html": "<p>Quelques mots abandonnés ce matin sur un quai de la gare d’Ottignies : <em>&ldquo;Douce mélodie&hellip; Cri d&rsquo;enfant bercé par les murmures du vent.&quot;</em></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Quelques mots abandonnés ce matin sur un quai de la gare d’Ottignies : _\"Douce mélodie... Cri d'enfant bercé par les murmures du vent.\"_\n\n<img src=\"uploads/2022/0f1ca8f3de.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n",
+				"content_text": "Quelques mots abandonnés ce matin sur un quai de la gare d’Ottignies : _\"Douce mélodie... Cri d'enfant bercé par les murmures du vent.\"_\n\n<img src=\"https://namurois.blog/uploads/2022/0f1ca8f3de.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n",
 				"date_published": "2022-08-31T13:03:17+02:00",
 				"url": "https://namurois.blog/2022/08/31/quelques-mots-abandonns.html",
 				"tags": ["Traces","Photos"]
