@@ -7,12 +7,31 @@
 	"items": [
 		
 			{
+				"id": "http://namurois.micro.blog/2023/02/12/your-browser-does.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>Raymond Devos, <em>L’homme existe, je l’ai rencontré</em> (Album : <em>A tort ou à raison</em>)</p>\n",
+				"content_text": "<audio controls>\r\n  <source src=https://blog.namurois.net/wp-content/uploads/2023/02/Raymond_Devos-L_Homme_existe_je_l_ai_rencontre.mp3\" type=\"audio/mpeg\">\r\n  Your browser does not support the audio tag.\r\n</audio>\r\n\r\nRaymond Devos, _L’homme existe, je l’ai rencontré_ (Album : _A tort ou à raison_)\n",
+				"date_published": "2023-02-12T16:03:21+01:00",
+				"url": "https://namurois.blog/2023/02/12/your-browser-does.html",
+				"tags": ["Audios"]
+			},
+			{
+				"id": "http://namurois.micro.blog/2023/01/29/calla-acrylique-florence.html",
+				
+				"content_html": "<p><em>Calla</em>, acrylique – © 2023 Florence Parmentier</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "_Calla_, acrylique – © 2023 Florence Parmentier\r\n\r\n\n\n<img src=\"uploads/2023/827c453def.jpg\" width=\"600\" height=\"295\" alt=\"\">\n",
+				"date_published": "2023-01-29T21:43:29+01:00",
+				"url": "https://namurois.blog/2023/01/29/calla-acrylique-florence.html",
+				"tags": ["Photos"]
+			},
+			{
 				"id": "http://namurois.micro.blog/2023/01/29/lige-tu-dois.html",
 				
-				"content_html": "<p>Liège, tu dois Notger au Christ et le reste à Notger.</p>\n<p>— Proverbe liégeois</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Liège, tu dois Notger au Christ et le reste à Notger.\r\n\r\n&mdash; Proverbe liégeois\n\n<img src=\"uploads/2023/03f670eaea.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_html": "<blockquote>\n<p>Liège, tu dois Notger au Christ et le reste à Notger.</p>\n</blockquote>\n<!-- raw HTML omitted -->\n<p><em>Notger</em>, Collégiale Saint Jean, Liège</p>\n",
+				"content_text": ">Liège, tu dois Notger au Christ et le reste à Notger.\n\n<img src=\"uploads/2023/03f670eaea.jpg\" width=\"600\" height=\"337\" alt=\"Notger\">\n\n_Notger_, Collégiale Saint Jean, Liège\n",
 				"date_published": "2023-01-29T14:21:12+01:00",
-				"url": "https://namurois.blog/2023/01/29/lige-tu-dois.html"
+				"url": "https://namurois.blog/2023/01/29/lige-tu-dois.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://namurois.micro.blog/2023/01/24/les-chrtiens-et.html",
